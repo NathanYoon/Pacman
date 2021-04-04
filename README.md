@@ -1,6 +1,6 @@
 # Pacman
 
-An implementation of Pacman using python and pygame
+An implementation of Pacman using python and pygame to play run game.py using the terminal
 
 # Requirements
 * Python
