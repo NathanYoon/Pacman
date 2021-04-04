@@ -11,5 +11,7 @@ To install pygame, open command prompt and type python3 -m pip install -U pygame
 # Controls
 
 WASD to move
+
 space to start
+
 q to quit
